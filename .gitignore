@@ -1,3 +1,4 @@
 
 .ci-doctor/evidence-bundle.json
 .ci-doctor/proposed.patch
+.copilot-ci-doctor/**
